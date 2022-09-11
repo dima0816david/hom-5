@@ -1,0 +1,21 @@
+.flag-uzb {
+    width: 600px;
+    height: 300px;
+    background-image: linear-gradient(rgb(11, 238, 238) 0% 32%, red 32% 34%, white 34% 66%,red 66% 68%, green 68% 100%);
+    border: 1px solid black;
+}
+
+.flag-rus {
+    width: 600px;
+    height: 300px;
+    background-image: linear-gradient(white 0% 33%,blue 34% 66%, red 66% 100%);
+    border: 1px solid black;
+}
+
+.flag-japan {
+    width: 600px;
+    height: 300px;
+    background-image: radial-gradient(circle, red 0% 30%, white 30% 100%);
+    border: 1px solid black;
+    fle
+}
